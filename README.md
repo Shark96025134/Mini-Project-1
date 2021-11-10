@@ -14,19 +14,25 @@ b=a*a*a
 d=a*a
 
 if c=="square":
+    
     print (d)
 
 if c=="cube":
-    print (b)
+   
+   print (b)
 
 if c=="Square":
+    
     print (d)
 
 if c=="Cube":
+    
     print (b)
 
 if c=="SQUARE":
+    
     print (d)
 
 if c=="CUBE":
+    
     print (b)
